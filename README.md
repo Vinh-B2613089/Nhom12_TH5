@@ -5,6 +5,8 @@ Bài thực hành số 5_ Nhóm 12
     + index.html (nhiệm vụ 3.1)
     + infographic.PNG (nhiệm vụ 2.1)
     + video.mp4 (nhiệm vụ 2.2)
+    + NV1.jpg (ảnh chụp màn hình Google Docs)
+    + NV2.jpg (ảnh chụp màn hình Canva)
 - Trích dẫn nguồn AI:
     + Infographic được tạo bới Canva AI và có sự chỉnh sửa
     + Video được tạo bới AI Capcut
